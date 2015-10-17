@@ -1,0 +1,8 @@
+http://www.mikmo.dk/gobetwino.html
+
+Commands:
+LGFIL | WRTTMP
+#S|WRTTMP|LGFIL|[C:\Users\Mein\Documents\Arduino\fridge\table.csv&$1&-1]#
+
+CPFIL | SRTLOG
+#S|SRTLOG|CPFIL|[C:\Users\Mein\Documents\Arduino\fridge\table.csv&C:\Users\Mein\Documents\Arduino\fridge\table_old.csv&-1]#
